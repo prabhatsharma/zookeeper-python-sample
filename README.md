@@ -4,7 +4,7 @@ sample usage of zookeeper using python for distributed coordination. Use etcd if
 
 
 sample output of ready.py
-
+<pre>
 /zookeeper
 /zookeeper/config
 /zookeeper/quota
@@ -17,4 +17,5 @@ sample output of ready.py
 /aws/ec2/ebs/io1
 /base
 /base/test01
+</pre>
 
